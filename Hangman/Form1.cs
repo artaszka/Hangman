@@ -48,6 +48,8 @@ namespace Hangman
                 if (ilePudel == 3) { pictureBox1.Image = Hangman.Properties.Resources.wisi3; }
                 if (ilePudel == 4) { pictureBox1.Image = Hangman.Properties.Resources.wisi4; }
                 if (ilePudel == 5) { pictureBox1.Image = Hangman.Properties.Resources.wisi5; }
+                if (ilePudel == 6) { pictureBox1.Image = Hangman.Properties.Resources.end1; }
+
             }
         }
 
